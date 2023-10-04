@@ -26,7 +26,7 @@ export default function Home() {
           <span>Checking</span>
         </div>
         <div className='space-x-2'>
-          <span className='bg-gray px-2 py-1 rounded-lg text-bgWhite'>Wise's address:</span>
+          <span className='bg-gray px-2 py-1 rounded-lg text-bgWhite'>Wise&apos;s address:</span>
           <span>30 W. 26th Street, Sixth Floor
             New York NY 10010 <br />
             United States</span>
